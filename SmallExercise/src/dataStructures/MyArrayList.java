@@ -24,6 +24,11 @@ public class MyArrayList {
             increaseListSize();
         }
         myStore[actSize++] = obj;
+
+       /*alternative for line 26, actSize=actSize+1 after assigment
+       myStore[actSize]=obj;
+        actSize++;
+        */
     }
 
     public Object remove(int index){
