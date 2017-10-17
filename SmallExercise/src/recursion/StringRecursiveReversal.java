@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 
 /**
  * Created by n0271239 on 9/20/2017.
