@@ -1,7 +1,7 @@
 /**
  * 
  */
-package Recursion;
+package recursion;
 
 /**
  * @author Ellen
