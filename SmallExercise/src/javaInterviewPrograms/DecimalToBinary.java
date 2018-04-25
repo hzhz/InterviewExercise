@@ -12,6 +12,7 @@ public class DecimalToBinary {
         int index = 0;
         while(number > 0){
             binary[index++] = number%2;
+            System.out.println(number%2);
             number = number/2;
         }
         for(int i = index-1;i >= 0;i--){
