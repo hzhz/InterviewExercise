@@ -41,16 +41,16 @@ public class InteractiveBrokerTest1 {
         System.out.println("Q13_____________");
 
         for(byte b2=Byte.MIN_VALUE; b2<Byte.MAX_VALUE; b2++){
-            if (b2==0x90){
-                System.out.println("found it");
-            }
+//            if (b2==0x90){
+//                System.out.println("found it");
+//            }
         }
 
         System.out.println("Q15_____________");
         Map<Integer, String> hashMap =new HashMap<Integer, String>(5);
         hashMap.put(1, "apple");
         hashMap.put(2, null);
-        hashMap.put(new Integer(3), "peach");
+       //hashMap.put(new Integer(3), "peach");
         hashMap.put(3, "orange");
         hashMap.put(4, "peach");
 
@@ -63,7 +63,6 @@ public class InteractiveBrokerTest1 {
         System.out.println(hashMap.get(5));
 
 
-        final 
     }
 
 

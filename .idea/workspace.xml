@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3431527c-b206-4aa7-bfab-8b4e1fd57d1c" name="Default" comment="more quetions">
-      <change afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/InteractiveBrokerTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/InteractiveBrokerTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/Sedan.java" afterDir="false" />
+    <list default="true" id="3431527c-b206-4aa7-bfab-8b4e1fd57d1c" name="Default" comment="add some more example questions">
+      <change afterPath="$PROJECT_DIR$/SmallExercise/src/leetcode/DesignAddAndSearchWordsDataStructure_211.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmallExercise/src/leetcode/ImplementTrie_208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmallExercise/src/leetcode/WordSearchII_212.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/InteractiveBrokerTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/InteractiveBrokerTest1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,15 +23,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>post</find>
-      <find>&quot;</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>'</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -45,6 +36,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -69,9 +64,37 @@
       <recent name="C:\Users\Ellen\IdeaProjects\InterviewExercise\SmallExercise\src\sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InteractiveBrokerTest1">
+  <component name="RunManager" selected="Application.WordSearchII_212">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignAddAndSearchWordsDataStructure_211" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.DesignAddAndSearchWordsDataStructure_211" />
+      <module name="SmallExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplementTrie_208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ImplementTrie_208" />
+      <module name="SmallExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,34 +106,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javaInterviewPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCodeEasy1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaInterviewPrograms.LeetCodeEasy1" />
-      <module name="SmallExercise" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaInterviewPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyLinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.MyLinearSearch" />
-      <module name="SmallExercise" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,13 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructures.QueueImpl" />
+    <configuration name="WordSearchII_212" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.WordSearchII_212" />
       <module name="SmallExercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataStructures.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,19 +173,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCodeEasy1" />
-      <item itemvalue="Application.MyLinearSearch" />
-      <item itemvalue="Application.QueueImpl" />
       <item itemvalue="Application.Q1" />
       <item itemvalue="Application.InteractiveBrokerTest1" />
+      <item itemvalue="Application.DesignAddAndSearchWordsDataStructure_211" />
+      <item itemvalue="Application.ImplementTrie_208" />
+      <item itemvalue="Application.WordSearchII_212" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordSearchII_212" />
+        <item itemvalue="Application.ImplementTrie_208" />
+        <item itemvalue="Application.DesignAddAndSearchWordsDataStructure_211" />
         <item itemvalue="Application.InteractiveBrokerTest1" />
         <item itemvalue="Application.Q1" />
-        <item itemvalue="Application.LeetCodeEasy1" />
-        <item itemvalue="Application.MyLinearSearch" />
-        <item itemvalue="Application.QueueImpl" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +222,7 @@
       <workItem from="1598022022573" duration="3949000" />
       <workItem from="1599079147395" duration="653000" />
       <workItem from="1601039317131" duration="1011000" />
-      <workItem from="1601745824136" duration="381000" />
+      <workItem from="1601745824136" duration="3732000" />
     </task>
     <task id="LOCAL-00001" summary="more quetions">
       <created>1588726406547</created>
@@ -236,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588726406547</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add some more example questions">
+      <created>1601746366326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601746366333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -253,33 +255,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="more quetions" />
-    <option name="LAST_COMMIT_MESSAGE" value="more quetions" />
+    <MESSAGE value="add some more example questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some more example questions" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="732" y="414" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1601748840062">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="732" y="414" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1601748840062" />
     <state x="541" y="178" key="CommitChangelistDialog2" timestamp="1601746354175">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="541" y="178" key="CommitChangelistDialog2/0.0.1920.1170@0.0.1920.1170" timestamp="1601746354175" />
-    <state width="407" height="632" key="GridCell.Tab.0.bottom" timestamp="1598025465729">
+    <state width="636" height="1019" key="GridCell.Tab.0.bottom" timestamp="1601749878000">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="407" height="632" key="GridCell.Tab.0.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1598025465729" />
-    <state width="407" height="632" key="GridCell.Tab.0.center" timestamp="1598025465729">
+    <state width="636" height="1019" key="GridCell.Tab.0.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1601749878000" />
+    <state width="636" height="1019" key="GridCell.Tab.0.center" timestamp="1601749877999">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="407" height="632" key="GridCell.Tab.0.center/0.0.1920.1170@0.0.1920.1170" timestamp="1598025465729" />
-    <state width="407" height="632" key="GridCell.Tab.0.left" timestamp="1598025465728">
+    <state width="636" height="1019" key="GridCell.Tab.0.center/0.0.1920.1170@0.0.1920.1170" timestamp="1601749877999" />
+    <state width="636" height="1019" key="GridCell.Tab.0.left" timestamp="1601749877999">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="407" height="632" key="GridCell.Tab.0.left/0.0.1920.1170@0.0.1920.1170" timestamp="1598025465728" />
-    <state width="407" height="632" key="GridCell.Tab.0.right" timestamp="1598025465729">
+    <state width="636" height="1019" key="GridCell.Tab.0.left/0.0.1920.1170@0.0.1920.1170" timestamp="1601749877999" />
+    <state width="636" height="1019" key="GridCell.Tab.0.right" timestamp="1601749877999">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="407" height="632" key="GridCell.Tab.0.right/0.0.1920.1170@0.0.1920.1170" timestamp="1598025465729" />
-    <state x="552" y="317" key="Vcs.Push.Dialog.v2" timestamp="1601746287240">
+    <state width="636" height="1019" key="GridCell.Tab.0.right/0.0.1920.1170@0.0.1920.1170" timestamp="1601749877999" />
+    <state x="552" y="317" key="Vcs.Push.Dialog.v2" timestamp="1601746369823">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state x="552" y="317" key="Vcs.Push.Dialog.v2/0.0.1920.1170@0.0.1920.1170" timestamp="1601746287240" />
+    <state x="552" y="317" key="Vcs.Push.Dialog.v2/0.0.1920.1170@0.0.1920.1170" timestamp="1601746369823" />
+    <state x="664" y="477" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601747751066">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="664" y="477" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1170@0.0.1920.1170" timestamp="1601747751066" />
     <state x="342" y="204" key="new project wizard" timestamp="1598022115589">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
