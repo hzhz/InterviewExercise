@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3431527c-b206-4aa7-bfab-8b4e1fd57d1c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/LeetCodeEasy1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/Q2.java" afterDir="false" />
+    <list default="true" id="3431527c-b206-4aa7-bfab-8b4e1fd57d1c" name="Default" comment="more quetions">
+      <change afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/InteractiveBrokerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/InteractiveBrokerTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmallExercise/src/javaInterviewPrograms/Sedan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SmallExercise/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SmallExercise/Recursion/MyFindNthFibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SmallExercise/Recursion/MyFindNthFibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SmallExercise/Recursion/MyMergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SmallExercise/Recursion/MyMergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SmallExercise/Recursion/StringRecursiveReversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SmallExercise/Recursion/StringRecursiveReversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SmallExercise/javaInterviewPrograms/DecimalToBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SmallExercise/javaInterviewPrograms/DecimalToBinary.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,9 +69,23 @@
       <recent name="C:\Users\Ellen\IdeaProjects\InterviewExercise\SmallExercise\src\sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1">
+  <component name="RunManager" selected="Application.InteractiveBrokerTest1">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InteractiveBrokerTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaInterviewPrograms.InteractiveBrokerTest1" />
+      <module name="SmallExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaInterviewPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,20 +111,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyStackImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructures.MyStackImpl" />
-      <module name="SmallExercise" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataStructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,17 +180,17 @@
     <list>
       <item itemvalue="Application.LeetCodeEasy1" />
       <item itemvalue="Application.MyLinearSearch" />
-      <item itemvalue="Application.MyStackImpl" />
       <item itemvalue="Application.QueueImpl" />
       <item itemvalue="Application.Q1" />
+      <item itemvalue="Application.InteractiveBrokerTest1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InteractiveBrokerTest1" />
         <item itemvalue="Application.Q1" />
         <item itemvalue="Application.LeetCodeEasy1" />
         <item itemvalue="Application.MyLinearSearch" />
         <item itemvalue="Application.QueueImpl" />
-        <item itemvalue="Application.MyStackImpl" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +223,20 @@
       <workItem from="1579355286619" duration="1417000" />
       <workItem from="1579612116272" duration="16000" />
       <workItem from="1579612164227" duration="956000" />
+      <workItem from="1588726289845" duration="748000" />
+      <workItem from="1598022022573" duration="3949000" />
+      <workItem from="1599079147395" duration="653000" />
+      <workItem from="1601039317131" duration="1011000" />
+      <workItem from="1601745824136" duration="381000" />
     </task>
+    <task id="LOCAL-00001" summary="more quetions">
+      <created>1588726406547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588726406547</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -244,11 +251,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="more quetions" />
+    <option name="LAST_COMMIT_MESSAGE" value="more quetions" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1588726397378">
-      <screen x="0" y="0" width="1462" height="792" />
+    <state x="541" y="178" key="CommitChangelistDialog2" timestamp="1601746354175">
+      <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1462.792@0.0.1462.792" timestamp="1588726397378" />
+    <state x="541" y="178" key="CommitChangelistDialog2/0.0.1920.1170@0.0.1920.1170" timestamp="1601746354175" />
+    <state width="407" height="632" key="GridCell.Tab.0.bottom" timestamp="1598025465729">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="407" height="632" key="GridCell.Tab.0.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1598025465729" />
+    <state width="407" height="632" key="GridCell.Tab.0.center" timestamp="1598025465729">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="407" height="632" key="GridCell.Tab.0.center/0.0.1920.1170@0.0.1920.1170" timestamp="1598025465729" />
+    <state width="407" height="632" key="GridCell.Tab.0.left" timestamp="1598025465728">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="407" height="632" key="GridCell.Tab.0.left/0.0.1920.1170@0.0.1920.1170" timestamp="1598025465728" />
+    <state width="407" height="632" key="GridCell.Tab.0.right" timestamp="1598025465729">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="407" height="632" key="GridCell.Tab.0.right/0.0.1920.1170@0.0.1920.1170" timestamp="1598025465729" />
+    <state x="552" y="317" key="Vcs.Push.Dialog.v2" timestamp="1601746287240">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="552" y="317" key="Vcs.Push.Dialog.v2/0.0.1920.1170@0.0.1920.1170" timestamp="1601746287240" />
+    <state x="342" y="204" key="new project wizard" timestamp="1598022115589">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="342" y="204" key="new project wizard/0.0.1920.1170@0.0.1920.1170" timestamp="1598022115589" />
   </component>
   <component name="masterDetails">
     <states>
